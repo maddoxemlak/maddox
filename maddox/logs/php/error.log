@@ -1,0 +1,293 @@
+[26-Mar-2024 20:51:09 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php:6
+Stack trace:
+#0 C:\Users\alice\Documents\maddox\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\alice\Documents\maddox\app\public\wp-blog-header.php(19): require_once('C:\\Users\\alice\\...')
+#2 C:\Users\alice\Documents\maddox\app\public\index.php(17): require('C:\\Users\\alice\\...')
+#3 {main}
+  thrown in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php on line 6
+[26-Mar-2024 20:51:13 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php:6
+Stack trace:
+#0 C:\Users\alice\Documents\maddox\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\alice\Documents\maddox\app\public\wp-blog-header.php(19): require_once('C:\\Users\\alice\\...')
+#2 C:\Users\alice\Documents\maddox\app\public\index.php(17): require('C:\\Users\\alice\\...')
+#3 {main}
+  thrown in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php on line 6
+[26-Mar-2024 20:51:40 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php:6
+Stack trace:
+#0 C:\Users\alice\Documents\maddox\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\alice\Documents\maddox\app\public\wp-blog-header.php(19): require_once('C:\\Users\\alice\\...')
+#2 C:\Users\alice\Documents\maddox\app\public\index.php(17): require('C:\\Users\\alice\\...')
+#3 {main}
+  thrown in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\index.php on line 6
+[26-Mar-2024 20:52:17 UTC] WordPress database error Table 'local.wp_houzez_fields_builder' doesn't exist for query  SELECT * FROM wp_houzez_fields_builder order by id ASC made by do_action('wp_ajax_houzez_plugin_activate'), WP_Hook->do_action, WP_Hook->apply_filters, Houzez_Admin::houzez_plugin_activate, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/houzez-theme-functionality/houzez-theme-functionality.php'), Houzez::run, Houzez::houzez_ucfd_dummy, Houzez_Fields_Builder::get_form_fields
+[26-Mar-2024 20:52:24 UTC] MLS SYNC : Update check
+[26-Mar-2024 20:52:25 UTC] MLS SYNC : not updated
+[26-Mar-2024 20:52:25 UTC] App: purgeAttachments
+[26-Mar-2024 20:52:25 UTC] App: purgeAttachments : call core 
+[26-Mar-2024 20:52:25 UTC] Core: purgeAttachments
+[26-Mar-2024 20:52:25 UTC] Core: purgeAttachments : call property
+[26-Mar-2024 20:52:25 UTC] Property: purgeAttachments
+[26-Mar-2024 20:52:25 UTC] total attachments: 0
+[26-Mar-2024 20:52:26 UTC] PHP Warning:  Undefined variable $number_of_days in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\favethemes-insights\favethemes-insights.php on line 159
+[26-Mar-2024 20:54:34 UTC] App: PurgeListings
+[26-Mar-2024 20:54:34 UTC] App: PurgeListings : call core
+[26-Mar-2024 20:54:34 UTC] Core: purgeListings
+[26-Mar-2024 20:54:34 UTC] Core: purgeListings : call property
+[26-Mar-2024 20:54:34 UTC] Property: purgeListings
+[26-Mar-2024 20:54:34 UTC] total listings: 0
+[26-Mar-2024 21:00:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\redux-framework\redux-core\inc\classes\class-redux-options-constructor.php on line 478
+[26-Mar-2024 21:00:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\redux-framework\redux-core\inc\classes\class-redux-options-constructor.php on line 478
+[26-Mar-2024 21:00:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\redux-framework\redux-core\inc\classes\class-redux-options-constructor.php on line 478
+[26-Mar-2024 21:01:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[26-Mar-2024 21:01:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[26-Mar-2024 21:01:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[26-Mar-2024 21:01:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:42 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:02:53 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:10:16 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:12:49 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:22:33 UTC] App: purgeAttachments
+[26-Mar-2024 21:22:33 UTC] App: purgeAttachments : call core 
+[26-Mar-2024 21:22:33 UTC] Core: purgeAttachments
+[26-Mar-2024 21:22:33 UTC] Core: purgeAttachments : call property
+[26-Mar-2024 21:22:33 UTC] Property: purgeAttachments
+[26-Mar-2024 21:22:33 UTC] total attachments: 0
+[26-Mar-2024 21:24:24 UTC] App: PurgeListings
+[26-Mar-2024 21:24:24 UTC] App: PurgeListings : call core
+[26-Mar-2024 21:24:24 UTC] Core: purgeListings
+[26-Mar-2024 21:24:24 UTC] Core: purgeListings : call property
+[26-Mar-2024 21:24:24 UTC] Property: purgeListings
+[26-Mar-2024 21:24:24 UTC] total listings: 0
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:30:37 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:35:30 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:36:11 UTC] PHP Warning:  Undefined array key "map_address" in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\dashboard\submit\location.php on line 22
+[26-Mar-2024 21:36:11 UTC] PHP Warning:  Undefined array key "map" in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\dashboard\submit\location.php on line 60
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 80
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 89
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 105
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form-bottom.php on line 130
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 77
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 83
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 93
+[26-Mar-2024 21:46:51 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\property-details\agent-form.php on line 99
+[26-Mar-2024 21:52:29 UTC] App: purgeAttachments
+[26-Mar-2024 21:52:29 UTC] App: purgeAttachments : call core 
+[26-Mar-2024 21:52:29 UTC] Core: purgeAttachments
+[26-Mar-2024 21:52:29 UTC] Core: purgeAttachments : call property
+[26-Mar-2024 21:52:29 UTC] Property: purgeAttachments
+[26-Mar-2024 21:52:29 UTC] total attachments: 0
+[26-Mar-2024 21:54:27 UTC] App: PurgeListings
+[26-Mar-2024 21:54:27 UTC] App: PurgeListings : call core
+[26-Mar-2024 21:54:27 UTC] Core: purgeListings
+[26-Mar-2024 21:54:27 UTC] Core: purgeListings : call property
+[26-Mar-2024 21:54:27 UTC] Property: purgeListings
+[26-Mar-2024 21:54:27 UTC] total listings: 0
+[27-Mar-2024 20:46:46 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 20:47:01 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 20:47:19 UTC] App: purgeAttachments
+[27-Mar-2024 20:47:19 UTC] App: purgeAttachments : call core 
+[27-Mar-2024 20:47:19 UTC] Core: purgeAttachments
+[27-Mar-2024 20:47:19 UTC] Core: purgeAttachments : call property
+[27-Mar-2024 20:47:19 UTC] Property: purgeAttachments
+[27-Mar-2024 20:47:19 UTC] total attachments: 0
+[27-Mar-2024 20:47:19 UTC] App: PurgeListings
+[27-Mar-2024 20:47:19 UTC] App: PurgeListings : call core
+[27-Mar-2024 20:47:19 UTC] Core: purgeListings
+[27-Mar-2024 20:47:19 UTC] Core: purgeListings : call property
+[27-Mar-2024 20:47:19 UTC] Property: purgeListings
+[27-Mar-2024 20:47:19 UTC] total listings: 0
+[27-Mar-2024 20:47:22 UTC] MLS SYNC : Update check
+[27-Mar-2024 20:47:23 UTC] MLS SYNC : Updated
+[27-Mar-2024 20:52:48 UTC] App: purgeAttachments : error in object 
+[27-Mar-2024 20:54:21 UTC] App: PurgeListings : error in object
+[27-Mar-2024 21:03:50 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 21:04:02 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 21:09:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 21:09:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 21:09:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 21:09:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 21:22:25 UTC] App: purgeAttachments : error in object 
+[27-Mar-2024 21:24:31 UTC] App: PurgeListings : error in object
+[27-Mar-2024 21:26:44 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 21:29:54 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 21:30:27 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 21:31:36 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 22:25:01 UTC] App: purgeAttachments : error in object 
+[27-Mar-2024 22:25:01 UTC] App: PurgeListings : error in object
+[27-Mar-2024 22:53:52 UTC] App: purgeAttachments : error in object 
+[27-Mar-2024 22:54:54 UTC] App: PurgeListings : error in object
+[27-Mar-2024 23:11:37 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:12:08 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:14:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:14:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:14:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:14:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:19:49 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:20:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:20:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:20:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:20:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[27-Mar-2024 23:22:25 UTC] App: purgeAttachments : error in object 
+[27-Mar-2024 23:24:28 UTC] App: PurgeListings : error in object
+[27-Mar-2024 23:29:31 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:33:54 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:35:02 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:35:06 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[27-Mar-2024 23:35:14 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[28-Mar-2024 19:04:29 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[28-Mar-2024 19:05:08 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 19:05:08 UTC] App: PurgeListings : error in object
+[28-Mar-2024 19:22:21 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 19:24:21 UTC] App: PurgeListings : error in object
+[28-Mar-2024 19:42:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:42:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:42:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:45:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:45:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:45:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:46:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 19:52:24 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 19:53:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 19:53:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 19:53:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 19:53:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 19:54:38 UTC] App: PurgeListings : error in object
+[28-Mar-2024 20:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:04:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 20:22:54 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 20:24:55 UTC] App: PurgeListings : error in object
+[28-Mar-2024 20:52:26 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 20:54:24 UTC] App: PurgeListings : error in object
+[28-Mar-2024 21:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:06:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 21:06:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 21:06:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 21:06:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[28-Mar-2024 21:23:44 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 21:25:45 UTC] App: PurgeListings : error in object
+[28-Mar-2024 21:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:45:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 21:52:27 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 21:54:37 UTC] App: PurgeListings : error in object
+[28-Mar-2024 22:22:25 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 22:24:32 UTC] App: PurgeListings : error in object
+[28-Mar-2024 22:41:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 22:41:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 22:41:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[28-Mar-2024 22:52:29 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 22:54:36 UTC] App: PurgeListings : error in object
+[28-Mar-2024 23:22:55 UTC] App: purgeAttachments : error in object 
+[28-Mar-2024 23:24:33 UTC] App: PurgeListings : error in object
