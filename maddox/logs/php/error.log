@@ -291,3 +291,50 @@ Stack trace:
 [28-Mar-2024 22:54:36 UTC] App: PurgeListings : error in object
 [28-Mar-2024 23:22:55 UTC] App: purgeAttachments : error in object 
 [28-Mar-2024 23:24:33 UTC] App: PurgeListings : error in object
+[31-Mar-2024 19:17:38 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 19:17:38 UTC] App: PurgeListings : error in object
+[31-Mar-2024 19:17:47 UTC] Cron unschedule event error for hook: wordfence_start_scheduled_scan, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[1711826401]}
+[31-Mar-2024 19:22:36 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 19:24:56 UTC] App: PurgeListings : error in object
+[31-Mar-2024 19:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:41:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:41:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:41:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:43:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:43:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 19:43:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:17:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:17:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:17:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:17:20 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 20:17:20 UTC] App: PurgeListings : error in object
+[31-Mar-2024 20:18:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:18:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:18:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:19:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:19:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:19:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:20:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:20:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:20:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:22:31 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 20:23:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:23:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:23:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:24:28 UTC] App: PurgeListings : error in object
+[31-Mar-2024 20:25:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:25:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:25:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[31-Mar-2024 20:39:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[31-Mar-2024 20:39:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[31-Mar-2024 20:39:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[31-Mar-2024 20:39:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\framework\functions\helper_functions.php on line 4712
+[31-Mar-2024 20:52:32 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 20:54:40 UTC] App: PurgeListings : error in object
+[31-Mar-2024 21:23:13 UTC] App: purgeAttachments : error in object 
+[31-Mar-2024 21:25:14 UTC] App: PurgeListings : error in object
