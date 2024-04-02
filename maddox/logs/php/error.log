@@ -338,3 +338,14 @@ Stack trace:
 [31-Mar-2024 20:54:40 UTC] App: PurgeListings : error in object
 [31-Mar-2024 21:23:13 UTC] App: purgeAttachments : error in object 
 [31-Mar-2024 21:25:14 UTC] App: PurgeListings : error in object
+[01-Apr-2024 18:37:08 UTC] App: purgeAttachments : error in object 
+[01-Apr-2024 18:37:52 UTC] App: PurgeListings : error in object
+[02-Apr-2024 19:55:42 UTC] App: purgeAttachments : error in object 
+[02-Apr-2024 19:55:42 UTC] App: PurgeListings : error in object
+[02-Apr-2024 19:55:51 UTC] Cron unschedule event error for hook: wordfence_start_scheduled_scan, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[1712085600]}
+[02-Apr-2024 20:22:53 UTC] App: purgeAttachments : error in object 
+[02-Apr-2024 20:24:54 UTC] App: PurgeListings : error in object
+[02-Apr-2024 20:52:37 UTC] App: purgeAttachments : error in object 
+[02-Apr-2024 20:54:28 UTC] App: PurgeListings : error in object
+[02-Apr-2024 21:22:24 UTC] App: purgeAttachments : error in object 
+[02-Apr-2024 21:25:21 UTC] App: PurgeListings : error in object
