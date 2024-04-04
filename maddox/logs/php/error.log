@@ -349,3 +349,41 @@ Stack trace:
 [02-Apr-2024 20:54:28 UTC] App: PurgeListings : error in object
 [02-Apr-2024 21:22:24 UTC] App: purgeAttachments : error in object 
 [02-Apr-2024 21:25:21 UTC] App: PurgeListings : error in object
+[04-Apr-2024 20:19:38 UTC] App: purgeAttachments : error in object 
+[04-Apr-2024 20:20:23 UTC] App: PurgeListings : error in object
+[04-Apr-2024 20:22:33 UTC] App: purgeAttachments : error in object 
+[04-Apr-2024 20:22:52 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:22:52 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:22:56 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:22:56 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:24:48 UTC] App: PurgeListings : error in object
+[04-Apr-2024 20:25:51 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:25:51 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:28:12 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:28:12 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\alice\Documents\maddox\app\public\wp-content\plugins\houzez-theme-functionality\elementor\widgets\listings-tabs.php on line 383
+[04-Apr-2024 20:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:31:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:31:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:31:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:31:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:42:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:42:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:42:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:52:48 UTC] App: purgeAttachments : error in object 
+[04-Apr-2024 20:55:16 UTC] App: PurgeListings : error in object
+[04-Apr-2024 20:59:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:59:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 20:59:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
+[04-Apr-2024 21:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\alice\Documents\maddox\app\public\wp-content\themes\houzez\template-parts\testimonials\item-v2.php on line 26
